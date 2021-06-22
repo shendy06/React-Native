@@ -1,5 +1,7 @@
 import React from 'react';
 import { ActivityIndicator, StyleSheet, Text, View } from 'react-native';
+export const ADD_FAVORITE = 'ADD_FAVORITE';
+
 
 function Loading() {
     return (
