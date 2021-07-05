@@ -15,6 +15,7 @@ class Contact extends Component {
             recipients: ['campsites@nucamp.co'],
             subject: 'Inquiry',
             body: 'To whom it may concern:'
+            
         })
     }
 
